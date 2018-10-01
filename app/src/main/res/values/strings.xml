@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Wave</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="category_guitar_comprehension">기타의 이해</string>
+    <string name="category_guitar_style">기타 연주법</string>
+    <string name="category_guitar_maintenance">기타 관리법</string>
+    <string name="category_djembe">젬베의 종류</string>
+    <string name="category_calendar">일정 관리</string>
+    <string name="category_inform">관련 정보</string>
+    <string name="wood_property">목재</string>
+    <string name="body_shape">바디</string>
+    <string name="maintenance_humidity">습도</string>
+    <string name="maintenance_temperature">온도</string>
+    <string name="style_strum">스트로크</string>
+    <string name="style_arpezio">핑거스타일</string>
+    <string name="djembe_natural">원목</string>
+    <string name="djembe_artificial">인조</string>
+    <string name="Etc">Etc</string>
+    <string name="title_activity_content">ContentActivity</string>
+    <string name="content_wood">어쿠스틱 기타는 목재의 차이에 따라 확연히 다른 소리를 보이는데, 기본적으로 목재는 단판과 합판으로 나누어진다. 단판은 목재를 딱 한 개만 쓴 것이고 합판은 여러 겹을 겹쳐서 만든 것인데[얇은], 단판이 훨씬 더 소리가 좋지만 관리하긴 더 까다로워진다. 상판만 단판인 기타를 탑 솔리드, 상판과 후판이 단판인 기타를 탑백 솔리드, 전체가 단판인 기타를 올 솔리드라고 한다. 같은 회사의 제품이라면 대개 합판기타부터 원목이 들어가는 비중대로 가격이 올라가며 소리도 좋아진다는게 상식이다. 물론 싸구려 올솔리드보단, 잘만든 합판이 더 비싸고, 소리도 좋다.</string>
+    <string name="content_shape">바디는 그 크기와 모양에 따라 증폭되는 음의 성격이 달라집니다. 바디의 모양은 단순히 디자인의 문제가 아닌 소리의 문제란 얘기죠. 기본적으로 바디가 크면 클수록 음의 증폭이 커지므로 울림이 더 커집니다. 바디의 형태로는 드레드넛, 오케스트라, 점보, 팔러, 컷어웨이 등이 있습니다.</string>
+    <string name="content_humid">기타를 관리할때는 50%정도의 습도가 좋으며 너무 건조하면 바디가 쪼개지거나 마감이 깨진다. 하지만 너무 습하면 나무가 물러져서 기타 바디가 불룩해진다. 간단하게 관리하기 위해 하드케이스 안에서 보관하는것이 좋다. 하지만 하드케이스 외에도 습도계와 댐핏등이 필요하다. 하드케이스가 댐핏을 쓰기엔 편할뿐 지갑 사정이 여의치 않다면 습도 관리용품을 마련하자 합판기타보다는 고가의 원목 기타에서 쉽게 일어나며 기타의 건강에 치명적이다. 그렇지만 합판 보다 쉽게 일어난다고 했지 합판이 어렵게 일어나는 것은 아니다.</string>
+    <string name="content_thermo">기타의 넥은 건조한 겨울에는 뒤로 눕기에 줄이 붙고 눅눅한 여름엔 앞으로 누워 줄이 뜨게된다. 보통 넥이 휘어지는걸 방지하기 위해 통기타의 넥안에는 스트록바가 있어 휨을 방지한다. 클래식기타는 나일론 줄이 장력이 약하고 넥이 넓어서 그걸로 버틴다고 한다지만 요즘에는 스트록바가 있는 것도 있다. 계속 치는 도중엔 넥이 휘어지지 않지만 연주를 하지 않고 방치할 때 넥의 휨이 증가한다고 하니 비싼 기타면 일주일 정도 안 칠 것 같으면 줄을 풀어놓자!</string>
+    <string name="content_strum">스트로크란 다들 아시다시피 통기타의 가장 기초가 되는 주법이며 손이나 피크를 사용하여 여러개의 줄을 동시에 쳐주는 것을 말합니다. 스트로크 주법의 핵심은 리듬이라고 할 수 있습니다. 리듬의 흐름을 끊지 않고 자연스럽게 곡에 스며들도록 스트로크를 하는 것이 중요하죠. 스트로크도 스트로크 나름인데 조용한 곡에서 과한 스트로크를 해서 곡의 분위기를 해치는 것은 안하느니만 못합니다.</string>
+    <string name="content_fingerstyle">핑거스타일(Fingerstyle) 또는 핑거 피킹(Finger picking)은 말 그대로 손가락을 사용하여 현악기, 특히 기타를 연주하는 오른손 주법을 말한다. 즉 곡의 내용이나 정서, 형식, 편곡등과 상관이 없는 말이다. 반대말로 피크를 사용하는 Flatpicking 주법이 있다.   이 주법은 손가락 끝 살, 손톱, 또는 이 둘 다 사용될 수 있다. 특성상 피크 하나로 소위 말하는 긁는주법이 아니기 때문에 손가락마다 끼우게 되어있는 핑거 피크를 사용해도 핑거 피킹/핑거스타일 주법으로 본다.</string>
+    <string name="title_activity_division">DivisionActivity</string>
+    <string name="content_natural">전통 젬베라고 하면 헤드 14인치 이상에 상당한 크기를 자랑하며 몸체도 나무로 되어있어 몹시 무겁다. 그런만큼 울림도 엄청나며 아파트에서 연습하다간 인터폰 크리...  린케, 잘라, 하리, 겔레, 딤바, 이로코, 트윈보아 등 밀도가 높고 단단한 서아프리카 자생형 나무를 사용하며 트윈보아는 비교적 강도가 약해 두께를 많이 주어 깎아낸다. 기계를 사용하지 않고 대부분 젬베 장인들이 일일이 칼로 깎아 속을 파내기 때문에 몸통 내부를 들여다보면 속을 파낸 칼자국이 어마어마하게 나있다. 저걸 일일이 손으로 파내는 것도 보통 일이 아니다.  서아프리카 이외의 지역의 젬베 라고 한다면 일반적으로 인도네시아의 젬베들이 유명하다. 좋은 나무를 사용하여 퀄리티 있는 젬베들이 생산된다. 그러나 밀도나 경도가 서아프리카산 목재와 차이가 있기 때문에 음질이 다르다. 잘 훈련된 젬베 연주자들은 소리만 듣고도 어디서 만들어진 젬베인지를 알아챈다.</string>
+    <string name="content_artificial">개량형젬베는 대체로 몸체가 나무가 아니기 때문에 가볍다. 사실 이것이 개량형 젬베의 가장 큰 장점으로 대충 가방에 넣어서 매고 다녀도 별로 부담이 없다. 그 기동력 덕분에 국내의 많은 어쿠스틱 밴드들은 카혼과 더불어 소규모 공연에 가장 적절한 리듬악기를 손에 넣었다고 봐도 과언이 아니다. 물론 큰 공연에서도 퍼쿠션으로서 제 몫을 다 하기에 충분한 악기이다.</string>
+    <string name="back_arrow">backpress</string>
+    <string name="save">save</string>
+    <string name="write_note">Write note</string>
+    <string name="no_note">No plan in the day</string>
+    <string name="title_activity_calender">CalenderActivity</string>
+    <string name="title_activity_shop">ShopActivity</string>
+    <string name="shop_refair">리페어샵</string>
+    <string name="shop_cafe">기타 카페</string>
+    <string name="title_activity_shop_list">ShopListActivity</string>
+
+</resources>
