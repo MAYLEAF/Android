@@ -40,8 +40,8 @@ apk 실행시 3초동안 나타난 후 메인으로 가게 하는 역할입니�
 
 
 ------------------------------------------------
-calendar
-AddNote
+calendar,
+AddNote,
 NotePreview
 
 위 세 클래스는
